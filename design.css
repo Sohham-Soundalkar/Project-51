@@ -1,0 +1,109 @@
+.header{
+    background-color: #000099;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.menu{
+    background-color: #fffb04;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.content{
+    background-color: #f1da8e;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+.animal{
+    border-radius: 40px;
+    background-color: #ffffff;
+    width: 310px;
+    margin: 30px;
+}
+
+body{
+    margin: 0px;
+    background-color: #ffffff;
+}
+
+/*.camel{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.a{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chameleon{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.b{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pigeon{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bear{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.d{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.panda{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.e{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cicada{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.f{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+*/
